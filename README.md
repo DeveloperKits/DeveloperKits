@@ -20,7 +20,6 @@ I am interested in learning new subjects to grow my knowledge.
 <br/>
 
 ---
-<br/>
 
 ### Languages and Tools:
 
@@ -35,7 +34,6 @@ I am interested in learning new subjects to grow my knowledge.
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ---
-<br/>
 
 ### Connect with me🤝: 
 
@@ -60,7 +58,6 @@ I am interested in learning new subjects to grow my knowledge.
 
 
 ---
-<br/>
 
 ### Github Activity ✔:
 
