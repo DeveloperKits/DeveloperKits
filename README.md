@@ -1,6 +1,6 @@
 # Hello I am Akash
 
-### About me🧑:
+### About me�:
 I am Computer Science & Engineering student and a android developer.<br/>
 I'm passionate about programming.
 I am interested in learning new subjects to grow my knowledge.
