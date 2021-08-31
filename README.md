@@ -17,7 +17,6 @@ I am interested in learning new subjects to grow my knowledge.
 -  Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=DeveloperKits.DeveloperKits)
 
-<br/>
 
 ---
 
