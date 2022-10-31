@@ -1,7 +1,7 @@
 # Hello I am Akash
 
 ### About me:
-I am Computer Science & Engineering student and an android developer.<br/>
+I am a Computer Science & Engineering student and an android developer.<br/>
 I'm passionate about programming.
 I am interested in learning new subjects to grow my knowledge.
 <br/>
@@ -106,4 +106,4 @@ I am interested in learning new subjects to grow my knowledge.
 
 <br/>
 
-Last Edited on: 13/04/2022
+Last Edited on: 01/11/2022
