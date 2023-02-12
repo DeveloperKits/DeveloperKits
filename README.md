@@ -23,6 +23,7 @@ I am interested in learning new subjects to grow my knowledge.
 ### Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![Kotlin]
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
