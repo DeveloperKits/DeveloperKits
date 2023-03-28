@@ -1,80 +1,73 @@
-# Hello I am Akash
-
-### About me:
-I am a Computer Science & Engineering student and an android developer.<br/>
-I'm passionate about programming.
-I am interested in learning new subjects to grow my knowledge.
-<br/>
-<br/>
-
-
--  I’m currently working on Native Android Development.
--  I’m currently learning Linux & Rest API.
--  I’m looking to collaborate with dedicated and passionate Android Developers.
--  I’m looking for help with Open source Contribution.
--  Ask me about Android Development.
--  Feel free to connect with me anytime
--  Profile Visitors Count:  
+<img  src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">    
+<h1 align="center">Hi 👋, I'm Akash Das</h1>
+<h3 align="center">I'm a passionate Mobile Application Developer.</h3>
+ 
+## About Me:
+I m Happy To Know That You Just Visited My Github Profile.🙂
+A little more about me...
+<img align="right" alt="Coding" width="320" src="https://github.com/ramimhossain12/Flutter-Network-Image-For-About/blob/main/images/18123-developer.gif">                                                                               
+- 🔭 I’m currently working on ... Mobile Application Development
+- 🌱 I’m currently learning ... Android App Development
+- 👯 I’m looking to collaborate on ... Projects
+- 🤔 I’m looking for help with ... Apps & Game Related Works
+- 💬 Ask me about ... Android & ios Application Development
+- 🎮 I’m looking for help with ... Open source Contribution
+- 📎 Feel free to connect with ... me
+- 🧑‍🏫 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=DeveloperKits.DeveloperKits)
 
+## Languages and Tools:
 
----
+<p align="left">   
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/26e07f/android-os.png"/></a>  
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+</p>
 
-### Languages and Tools:
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Adobe XD](https://img.shields.io/badge/-AdobeXD-black?style=flat-square&logo=AdobeXD)
-![SQLite](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=SQLite)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+<br/>
 
----
+## Connect With Me:
 
-### Connect with me🤝: 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100016235255531)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashdas59/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akashdas.dev@gmail.com)
+[![Web Site](https://img.shields.io/badge/Website-D14836?style=for-the-badge&logo=web&logoColor=white)](http://akashdas.me/)
 
-<a href="https://github.com/DeveloperKits">
-  <img align="left" alt="Akash's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" style="padding-right: 10px"/>
-</a>
 
-<a href="https://www.linkedin.com/in/akashdas59/">
-  <img align="left" alt="Akash's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" style="padding-right: 10px"/>
-</a>
 
-<a href="https://t.me/akashdas53">
-  <img align="left" alt="Akash's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" style="padding-right: 10px"/>
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100016235255531">
-  <img align="left" alt="Akash's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
 
 <br/>
 
 
-
----
-
-### Github Activity ✔:
+## Github Activity:
 
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperKits&show_icons=true&theme=tokyonight&line_height=27" style="padding-right: 10px"/>
-  </a>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=DeveloperKits&show_icons=true&theme=radical" alt="Akash Das's github stats" style="padding-right: 10px"/>
+</a>
 
 <a>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeveloperKits&show_icons=true&theme=tokyonight&line_height=27" alt="Akash Das's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperKits&theme=radical&layout=compact" />
 </a>
 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
-<!-- #  Projects Demo :
+<img height="90" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
+<!--#  Projects Demo :
 
 <div align="center">
 
@@ -102,8 +95,8 @@ I am interested in learning new subjects to grow my knowledge.
   <img align="center" src="https://raw.githubusercontent.com/MdAbdullahAlMahmud/MdAbdullahAlMahmud/assest/phonebook.JPG" width="386" height="214"/>
 </a>
 
-</div> -->
+</div>-->
 
 <br/>
 
-Last Edited on: 01/11/2022
+Last Edited on: 29/03/2023
