@@ -39,7 +39,7 @@ A little more about me...
 
 ## Connect With Me:
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100016235255531)
+<!--[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100016235255531)-->
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashdas59/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akashdas.dev@gmail.com)
 [![Web Site](https://img.shields.io/badge/Website-D14836?style=for-the-badge&logo=web&logoColor=white)](http://akashdas.me/)
