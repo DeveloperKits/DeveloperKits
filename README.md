@@ -9,8 +9,8 @@ I m Happy To Know That You Just Visited My Github Profile.🙂
 A little more about me...
 <img align="right" alt="Coding" width="320" height="280" src="https://github.com/ramimhossain12/Flutter-Network-Image-For-About/blob/main/images/18123-developer.gif">                                                                               
 - 🔭 I’m currently working on ... Mobile Application Development
-- 🌱 I’m currently learning ... Android App Development
-- 👯 I’m looking to collaborate on ... Projects
+- 🌱 I’m currently learning ... Flutter Development
+- 👯 I’m looking to collaborate on ... Android Projects
 - 🤔 I’m looking for help with ... Apps & Game Related Works
 - 💬 Ask me about ... Android Application Development
 - 🎮 I’m looking for help with ... Open source Contribution
@@ -22,17 +22,34 @@ A little more about me...
 
 <h3 align="left">Tech Skills: Android</h3>
 
+Tech Stack📱:
 
-- Kotlin, Java
-- Views, Jetpack Compose
-- Material Design
-- Modern Android Development | MAD
-- Architecture Components | LifeCycle, ViewModel, LiveData, DataBinding, Room, Navigation, Paging, WorkManager
-- Coroutines, RxJava
-- MVVM, MVP
-- DI, Dagger2, Hilt
-- Animations, MotionLayout, Lottie
-- 3rd Party Libraries (Retrofit, Gson, Glide, Picasso, EasyPermissions, ...)
+▶ Expertise 🚀 : Android Native (Kotlin & Java) | Architecture Components 
+
+▶ Known 💡: Flutter, Jetpack Compose
+
+
+
+State Management 🔄 :
+
+▶ Expertise 🚀 : ViewModel, LiveData
+
+▶ Known 💡: Provider, StateFlow
+
+
+
+Designer at Heart 🎨 : Figma (Prototyping & UI Design)
+
+Coding Style 🧑🏻‍💻 : Clean, Readable, Reusable, and Testable Code
+
+Patterns & Architectures Familiar with ✏️ : MVP, MVVM
+
+Network 📡 : RESTFUL
+
+Qualities & Strengths 💪 : project ownership, dedication, love to help others, eager to learn & grow
+
+Contribution to Industries 🏢 : MedTech Solutions, IOT, ArgoTech, E-commerce
+
 
 <br>
 
