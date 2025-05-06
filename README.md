@@ -5,7 +5,7 @@
 <br>
 
 ## About Me:
-I m Happy To Know That You Just Visited My Github Profile.🙂
+I'm Happy To Know That You Just Visited My GitHub profile.🙂
 A little more about me...
 <img align="right" alt="Coding" width="320" height="280" src="https://github.com/ramimhossain12/Flutter-Network-Image-For-About/blob/main/images/18123-developer.gif">                                                                               
 - 🔭 I’m currently working on ... Mobile Application Development
@@ -31,9 +31,9 @@ Tech Stack📱:
 
 State Management 🔄 :
 
-▶ Expertise 🚀 : ViewModel, LiveData
+▶ Expertise 🚀 : ViewModel, LiveData, Flow
 
-▶ Known 💡: Provider, StateFlow
+▶ Known 💡: Provider, StateFlow, Bloc
 
 
 
@@ -41,7 +41,7 @@ Designer at Heart 🎨 : Figma (Prototyping & UI Design)
 
 Coding Style 🧑🏻‍💻 : Clean, Readable, Reusable, and Testable Code
 
-Patterns & Architectures Familiar with ✏️ : MVP, MVVM
+Patterns & Architectures Familiar with ✏️ : MVVM, Clean Architecture, Design Patterns
 
 Network 📡 : RESTFUL
 
@@ -55,10 +55,8 @@ Contribution to Industries 🏢 : MedTech Solutions, IOT, ArgoTech, E-commerce
 <!-- ### Feel Free to Contact me..... -->
 <h3 align="left">Feel Free to Contact me.....</h3>
 <p align="center">
-        <a href="https://github.com/DeveloperKits"><img alt="github" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/github.png" /></a>
-        <a href="https://www.linkedin.com/in/akashdas59/"><img alt="linkedin" width="10%" style="padding:5px"
-                        src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
+        <a href="https://developerkits.github.io/"><img alt="website" width="7.5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color=000000" /></a>
+        <a href="https://www.linkedin.com/in/akashdas59/"><img alt="linkedin" width="8%" style="padding:5px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" /></a>
 
 
 <br/>
@@ -66,7 +64,15 @@ Contribution to Industries 🏢 : MedTech Solutions, IOT, ArgoTech, E-commerce
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center " style="border: 1px solid black" >
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a></p>
+        <a target="blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=AnSUZ3CWJ6BP&format=png&color=000000" alt="android" width="6%" height="6%" style="padding:5px"/> </a>
+        <a target="blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=IYQQHplg11Ie&format=png&color=000000" alt="flutter" width="6%" height="6%" style="padding:5px"/> </a>
+        <a target="blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=bGD8ChgdMIJV&format=png&color=000000" alt="kotlin" width="6%" height="6%" style="padding:5px"/> </a> 
+        <a target="blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000" alt="java" width="6%" height="6%" style="padding:5px"/> </a> 
+        <a target="blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" alt="dart" width="6%" height="6%" style="padding:5px"/> </a>
+        <a target="blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9AHxUOg7E9q2&format=png&color=000000" alt="firebase" width="6%" height="6%" style="padding:5px"/> </a>
+        <a target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="6%" height="6%" style="padding:5px"/> </a>
+        <a target="blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" width="6%" height="6%" style="padding:5px"/> </a>
+</p>
 
 <br/>
 
@@ -77,6 +83,8 @@ Contribution to Industries 🏢 : MedTech Solutions, IOT, ArgoTech, E-commerce
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=developerkits&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=developerkits&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeveloperKits&theme=nord&margin-w=10&row=1&title=-Joined2020)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -93,4 +101,4 @@ Contribution to Industries 🏢 : MedTech Solutions, IOT, ArgoTech, E-commerce
 
 <br/>
 
-Last Edited on: 16/03/2025
+Last Edited on: 06/05/2025
